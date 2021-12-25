@@ -1,0 +1,20 @@
+{
+    "params": {
+        "local_scrver": "True",
+        "local_uri": "mysql://root:@localhost/cordingthunder",
+        "prod_uri": "mysql://root:@localhost/cordingthunder",
+        "fb_url": "https://facebook.com/codingthunder",
+        "TW_url": "https://twiter.com/codingthunder",
+        "gh_url": "https://gethub.com/codingthunder",
+        "blog_name": "cordingthunder",
+        "teg_line": "A Bolg Licked By Programes",
+        "GMAIL-USER": "Shreshthcho@gmail.com",
+        "GMAIL-PASWORD": "SHREshth123",
+        "about_post": "my father is a farmer and i am a student",
+        "number_of_posts": 3,
+        "login_img": "solid.svg",
+        "admin_user": "Shreshth@gmail.com",
+        "admin_pass": "SHREshth",
+        "uplode_location": "C:\\Users\\SHRESHTH\\Desktop\\WBD\\static"
+    }
+}
